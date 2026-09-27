@@ -1,0 +1,10 @@
+{
+  "status": "ok",
+  "scanned_rows": 4,
+  "matched_rows": 4,
+  "group_count": 4,
+  "invalid_metric_rows": 0,
+  "zero_denominator_groups": 0,
+  "chart_points": 4,
+  "output": "C:\\Users\\29465\\OneDrive\\Desktop\\excel\\.chart_visual_check\\packaged_people.xlsx"
+}

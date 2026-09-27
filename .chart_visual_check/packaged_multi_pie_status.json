@@ -1,0 +1,12 @@
+{
+  "status": "ok",
+  "scanned_rows": 6,
+  "matched_rows": 6,
+  "group_count": 5,
+  "invalid_metric_rows": 1,
+  "zero_denominator_groups": 0,
+  "chart_points": 4,
+  "metric_count": 2,
+  "chart_count": 2,
+  "output": "C:\\Users\\29465\\OneDrive\\Desktop\\excel\\.chart_visual_check\\packaged_multi_pie.xlsx"
+}

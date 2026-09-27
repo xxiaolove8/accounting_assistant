@@ -1,0 +1,1 @@
+[{"name": "计划回款", "mode": "sum", "value_ref": "C4", "unit": "元"}, {"name": "实际回款", "mode": "sum", "value_ref": "C5", "unit": "元"}]
